@@ -4,3 +4,4 @@
 openId=
 roomId=
 
+![image](https://github.com/user-attachments/assets/887ec401-537f-423c-a858-8340ff60fbc0)
