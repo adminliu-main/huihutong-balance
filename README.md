@@ -3,5 +3,6 @@
 [配置]
 openId=
 roomId=
-
 ![image](https://github.com/user-attachments/assets/887ec401-537f-423c-a858-8340ff60fbc0)
+只能查询自己当前入住的房间的水电费 除非你有别人的openId
+roomID 待更新
